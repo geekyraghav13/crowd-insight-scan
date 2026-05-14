@@ -90,3 +90,4 @@ const ImageDropZone = ({ onImageDrop, preview, isAnalyzing }: ImageDropZoneProps
 };
 
 export default ImageDropZone;
+
