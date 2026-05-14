@@ -449,3 +449,4 @@ Real-time display with heatmap overlays, alert interface, and control panel. Bui
 **Made with ❤️ by Group 5 | JUIT | AY 2025-26**
 
 </div>
+
