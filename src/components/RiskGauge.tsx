@@ -61,3 +61,4 @@ const RiskGauge = ({ percentage, label }: RiskGaugeProps) => {
 };
 
 export default RiskGauge;
+
