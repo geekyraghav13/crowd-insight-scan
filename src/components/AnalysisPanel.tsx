@@ -78,3 +78,4 @@ const AnalysisPanel = ({ result }: AnalysisPanelProps) => {
 };
 
 export default AnalysisPanel;
+
